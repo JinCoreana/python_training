@@ -1,0 +1,26 @@
+{
+  "service": {
+    "delete": {
+      "configuration": "EnterYourKey",
+      "host": "EnterYourKey",
+      "project": "EnterYourKey"
+    }
+  },
+  "settings": { "delete": { "theme": "EnterYourKey" } },
+  "user": { "delete": { "account": "EnterYourKey" } },
+  "tools": { "remove": { "user": { "log": "EnterYourKey" } } },
+  "maintenance": { "cleanup": { "logs": "EnterYourKey" } },
+  "content": { "drop": { "file": "EnterYourKey" } },
+  "security": { "erase": { "log": { "data": "EnterYourKey" } } },
+  "edit": { "delete": { "record": "EnterYourKey" } },
+  "workflow": { "remove": { "task": { "step": "EnterYourKey" } } },
+  "documents": { "trash": { "file": "EnterYourKey" } },
+  "resources": { "purge": { "image": "EnterYourKey" } },
+  "metrics": { "delete": { "log": { "events": "EnterYourKey" } } },
+  "media": { "erase": { "archive": { "file": "EnterYourKey" } } },
+  "system": { "drop": { "backup": "EnterYourKey" } },
+  "software": { "delete": { "package": { "history": "EnterYourKey" } } },
+  "jobs": { "purge": { "task": { "log": "EnterYourKey" } } },
+  "payments": { "remove": { "transaction": "EnterYourKey" } },
+  "contacts": { "trash": { "note": "EnterYourKey" } }
+}
